@@ -21,6 +21,7 @@ The chatbot responds to user queries by finding the most similar sentence from a
 
 
 
+
 🎯 Project Objective
 
 To demonstrate how NLP techniques can be used to build a basic conversational chatbot capable of:
@@ -30,6 +31,7 @@ Understanding user input
 Responding with relevant answers
 
 Handling greetings and exit commands
+
 
 
 ✨ Features
@@ -45,6 +47,7 @@ Greeting detection
 Interactive command-line chatbot
 
 
+
 🛠️ Technologies Used
 
 Python
@@ -56,11 +59,13 @@ Scikit-learn
 NumPy
 
 
+
 📂 Project Structure
 
 aichatbot.py
 
 README.md
+
 
 
 ⚙️ Requirements
@@ -79,6 +84,7 @@ nltk.download('punkt')
 nltk.download('wordnet')
 
 
+
 ▶️ How to Run the Chatbot
 
 Open terminal / command prompt
@@ -88,6 +94,7 @@ Navigate to the project folder
 Run the file:
 
 python aichatbot.py
+
 
 
 💬 How It Works
@@ -101,6 +108,7 @@ TF-IDF vectors are generated
 Cosine similarity is calculated
 
 The most relevant response is returned from the corpus
+
 
 
 🧠 Knowledge Base
@@ -118,6 +126,7 @@ Machine Learning
 Natural Language Processing
 
 
+
 🛑 Exit Condition
 
 Type:
@@ -125,6 +134,7 @@ Type:
 exit
 
 to stop the chatbot.
+
 
 
 🚀 Future Enhancements
@@ -138,6 +148,7 @@ Use deep learning models
 Store conversation history
 
 Support multiple languages
+
 
 
 📜 License

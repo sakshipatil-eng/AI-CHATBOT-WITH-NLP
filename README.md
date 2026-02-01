@@ -13,10 +13,12 @@ MENTOR: NEELA SANTOSH KUMAR
 
 
 
+
 🤖 AI Chatbot Using Natural Language Processing (NLP)
 
 This project is a simple AI chatbot built using Python and Natural Language Processing (NLP) techniques.
 The chatbot responds to user queries by finding the most similar sentence from a predefined knowledge corpus using TF-IDF vectorization and cosine similarity.
+
 
 
 🎯 Project Objective

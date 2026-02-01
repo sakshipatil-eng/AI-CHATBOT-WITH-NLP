@@ -154,3 +154,8 @@ Support multiple languages
 📜 License
 
 This project is open-source and intended for educational purposes.
+
+
+## Output
+
+<img width="452" height="204" alt="Image" src="https://github.com/user-attachments/assets/c8e109bc-2226-4db2-bb61-8ac3af213fe2" />
